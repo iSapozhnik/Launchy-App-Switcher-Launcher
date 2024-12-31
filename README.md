@@ -1,4 +1,4 @@
-# Launchy - App Launcher Switcher
+# 🔘 Launchy - App Launcher Switcher
 
 ![Launchy](./Assets/app.png)
 
