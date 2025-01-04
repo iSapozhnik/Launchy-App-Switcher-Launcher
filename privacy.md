@@ -1,1 +1,1 @@
-Launchy does not directly collect any data from users. However, we use RevenueCat as our payment processor, which may collect and process certain data necessary for handling in-app purchases. For information about RevenueCat's data collection and processing practices, please refer to [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy).
+Launchy does not directly collect any data from users.
