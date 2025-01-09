@@ -1,1 +1,1 @@
-Launchy does not directly collect any data from users.
+Launchy does not collect any data from users.
