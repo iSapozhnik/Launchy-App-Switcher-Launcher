@@ -54,7 +54,7 @@ Launchy is a productivity tool that enhances your application launching and swit
 - Support for drag and drop file opening
 
 ## Changelog
-### 1.2
+### Version 1.2 (15.01.2025)
 - Improved performance of the menu appearance—now, without animation, it appears instantly.
 - The maximum selection tolerance has been increased.
 - The maximum possible menu size has been increased.
