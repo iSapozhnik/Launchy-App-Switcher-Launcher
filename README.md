@@ -8,7 +8,7 @@ A macOS app that provides quick access to launch or switch between applications 
 Launchy is a productivity tool that enhances your application launching and switching workflow on macOS. It rovides a customizable radial menu to quickly access, launch, and manage your applications.
 
 > [!NOTE]  
-> ✈️ Join [TestFlight](https://testflight.apple.com/join/hpa9Wzbd) to test the latest version.
+> ⬇️ [Download](https://apps.apple.com/de/app/launchy-app-launcher-switcher/id6739782043?l=en-GB&mt=12) from the Mac App Store.
 
 ## Features
 
