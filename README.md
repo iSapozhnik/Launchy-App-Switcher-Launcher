@@ -52,3 +52,18 @@ Launchy is a productivity tool that enhances your application launching and swit
 - Visual indicators for hidden apps
 - Running app status indicators
 - Support for drag and drop file opening
+
+## Changelog
+### 1.2
+- Improved performance of the menu appearance—now, without animation, it appears instantly.
+- The maximum selection tolerance has been increased.
+- The maximum possible menu size has been increased.
+- The maximum possible thickness has been increased.
+- Enhanced app selection—you can now choose an app from the list of running applications.
+- Improved handling of long app names.
+- Switching between apps is now faster.
+- Various memory issues fixed—the memory footprint has been reduced.
+- While switching between spaces, the menu no longer sticks to any of them.
+- Keyboard layouts supported: QWERTY, QWERTZ, Dvorak, and more.
+- Fixed onboarding keypresses not being properly handled when the window was closed.
+- Switching to a miniaturized app now restores it properly.
