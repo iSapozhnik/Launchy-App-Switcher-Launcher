@@ -72,5 +72,6 @@ Launchy is a productivity tool that enhances your application launching and swit
 - Fixed an issue where apps were not saved if selected from the dropdown.
 - Improved the handling of hidden apps.
 
-### Version 1.3 (Draft)
-- Showing alert explaining how to bring up back Preferences window when using "Hide menu bar icon" toggle
+### Version 1.2.2 (Draft)
+- Showing an alert explaining how to bring back the Preferences window when using the ‘Hide menu bar icon’ toggle.
+- Fixing localization issues
