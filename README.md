@@ -68,7 +68,7 @@ Launchy is a productivity tool that enhances your application launching and swit
 - Fixed onboarding keypresses not being properly handled when the window was closed.
 - Switching to a miniaturized app now restores it properly.
 
-### Version 1.2.1 (Draft)
+### Version 1.2.1 (15.01.2025)
 - Fixed an issue where apps were not saved if selected from the dropdown.
 - Improved the handling of hidden apps.
 
