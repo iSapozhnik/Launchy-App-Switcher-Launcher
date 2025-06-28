@@ -10,6 +10,9 @@ Launchy is a productivity tool that enhances your application launching and swit
 > [!NOTE]  
 > ⬇️ [Download](https://apps.apple.com/de/app/launchy-app-launcher-switcher/id6739782043?l=en-GB&mt=12) from the Mac App Store.
 
+> [!IMPORTANT]  
+> Join the [Discord](https://discord.gg/RazjXZKEap) server
+
 ## Features
 
 ### Application Management
