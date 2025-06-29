@@ -57,6 +57,25 @@ Launchy is a productivity tool that enhances your application launching and swit
 - Support for drag and drop file opening
 
 ## Changelog
+### Version 1.2.7 (29.06.2025)
+- UX has been improved.
+- The app no longer shows the usage counter if it has been purchased.
+- When the "Hide menu bar" toggle is on, the app will show the preferences window after each restart. Additionally, there is now a toggle to disable this behavior.
+- Added more languages. Huge thanks to the folks from South Korea for their support.
+If you find any incorrect translation, feel free to suggest a correction: https://crowdin.com/project/launchy
+- For better support, there is now a Discord server available—please find it in Preferences → About.
+
+### Version 1.2.3 (21.01.2025)
+- Showing app names in the center of the menu
+
+### Version 1.2.2 (16.01.2025)
+- Showing an alert explaining how to bring back the Preferences window when using the ‘Hide menu bar icon’ toggle.
+- Fixing localization issues
+
+### Version 1.2.1 (15.01.2025)
+- Fixed an issue where apps were not saved if selected from the dropdown.
+- Improved the handling of hidden apps.
+
 ### Version 1.2 (15.01.2025)
 - Improved performance of the menu appearance—now, without animation, it appears instantly.
 - The maximum selection tolerance has been increased.
@@ -71,13 +90,6 @@ Launchy is a productivity tool that enhances your application launching and swit
 - Fixed onboarding keypresses not being properly handled when the window was closed.
 - Switching to a miniaturized app now restores it properly.
 
-### Version 1.2.1 (15.01.2025)
-- Fixed an issue where apps were not saved if selected from the dropdown.
-- Improved the handling of hidden apps.
 
-### Version 1.2.2 (16.01.2025)
-- Showing an alert explaining how to bring back the Preferences window when using the ‘Hide menu bar icon’ toggle.
-- Fixing localization issues
 
-### Version 1.2.3 (21.01.2025)
-- Showing app names in the center of the menu
+
