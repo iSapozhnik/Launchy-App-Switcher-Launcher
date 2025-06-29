@@ -65,6 +65,10 @@ Launchy is a productivity tool that enhances your application launching and swit
 If you find any incorrect translation, feel free to suggest a correction: https://crowdin.com/project/launchy
 - For better support, there is now a Discord server available—please find it in Preferences → About.
 
+### Version 1.2.6 (20.04.2025)
+- Updated translations
+If you find any incorrect translation, feel free to suggest a correction: https://crowdin.com/project/launchy
+
 ### Version 1.2.3 (21.01.2025)
 - Showing app names in the center of the menu
 
